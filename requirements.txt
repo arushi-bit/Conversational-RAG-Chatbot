@@ -1,36 +1,54 @@
-langchain
-python-dotenv
-ipykernel
-langchain_community
-langchain
-python-dotenv
-ipykernel
-langchain-community
-pypdf
-bs4
-arxiv
-pymupdf
-wikipedia
-langchain-text-splitters
-langchain-openai
-chromadb
-sentence_transformers
-langchain_huggingface
-faiss-cpu
-langchain_chroma
-duckdb
-pandas
-openai
-langchain-groq
-duckduckgo_search==5.3.1b1
-pymupdf
-arxiv
-wikipedia
-mysql-connector-python
-SQLAlchemy
-validators==0.28.1
-youtube_transcript_api
-unstructured
-pytube
-numexpr
-huggingface_hub
+# langchain
+# python-dotenv
+# ipykernel
+# langchain_community
+# langchain
+# python-dotenv
+# ipykernel
+# langchain-community
+# pypdf
+# bs4
+# arxiv
+# pymupdf
+# wikipedia
+# langchain-text-splitters
+# langchain-openai
+# chromadb
+# sentence_transformers
+# langchain_huggingface
+# faiss-cpu
+# langchain_chroma
+# duckdb
+# pandas
+# openai
+# langchain-groq
+# duckduckgo_search==5.3.1b1
+# pymupdf
+# arxiv
+# wikipedia
+# mysql-connector-python
+# SQLAlchemy
+# validators==0.28.1
+# youtube_transcript_api
+# unstructured
+# pytube
+# numexpr
+# huggingface_hub
+
+streamlit==1.41.0
+
+langchain==0.2.17
+langchain-core==0.2.43
+langchain-community==0.2.19
+langchain-text-splitters==0.2.4
+langchain-groq==0.1.10
+langchain-huggingface==0.0.3
+langchain-chroma==0.1.4
+
+chromadb==0.5.5
+sentence-transformers==3.0.1
+huggingface-hub==0.24.7
+
+python-dotenv==1.0.1
+pypdf==4.3.1
+protobuf==3.20.3
