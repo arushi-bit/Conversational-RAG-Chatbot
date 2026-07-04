@@ -1,0 +1,31 @@
+# Environment variables / secrets
+.env
+*.env
+!.env.example
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Runtime artifacts
+*.pdf
+!4-RAG Document Q&A/research_papers/*.pdf
+
+*.pyc
+temp*.pdf
+
+# Vector store / cache
+chroma_db/
+faiss_index/
+.chroma/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
